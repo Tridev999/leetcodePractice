@@ -6,6 +6,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -21,6 +22,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Tridev999/leetcodePractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -29,4 +31,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
