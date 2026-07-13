@@ -35,6 +35,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -68,6 +70,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -75,4 +78,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0100-same-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
