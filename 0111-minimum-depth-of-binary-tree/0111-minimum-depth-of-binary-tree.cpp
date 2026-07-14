@@ -28,7 +28,7 @@ public:
             for(int i=0;i<size;i++){
                 TreeNode* a = q.front();
                 q.pop();
-                if(a->left==NULL && a->right==NULL){
+                if(a->left==NULL && a->right==NULL){ //by using level order traversal 
                     f=false;
                     break;
                 }
