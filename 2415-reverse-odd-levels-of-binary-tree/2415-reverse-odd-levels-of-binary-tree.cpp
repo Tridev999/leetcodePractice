@@ -26,23 +26,23 @@ public:
             int size = q.size();
             vector<TreeNode* > vec;
             for(int i=0;i<size;i++){
-                TreeNode* a = q.front();
+                TreeNode* a = q.front(); 
                 q.pop();
                 if(a->left!=NULL){
                     q.push(a->left);
                     if(c%2!=0){
-                    vec.push_back(a->left);
+                    vec.push_back(a->left); // pushing odd levels to vector
                     }
                 }
                 if(a->right!=NULL){
                     q.push(a->right);
                     if(c%2!=0){
-                    vec.push_back(a->right);
+                    vec.push_back(a->right); // pushing odd levels to vector
                     }
                 }
             }
             for(int i=0,j=vec.size()-1;i<j;i++,j--){
-                swap(vec[i]->val,vec[j]->val);
+                swap(vec[i]->val,vec[j]->val); // swap only values and then the structure remain same
             }
         }
         return root;
