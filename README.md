@@ -58,6 +58,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0226-invert-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -86,6 +87,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0226-invert-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
