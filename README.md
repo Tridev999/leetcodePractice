@@ -10,6 +10,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3340-check-balanced-string](https://github.com/Tridev999/leetcodePractice/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
