@@ -11,30 +11,20 @@
  */
 class Solution {
 public:
+    vector<int> vec;
+    void rpreorder(TreeNode* root,int level){ //reverse preorder techenique is used.
+        if(root==nullptr){
+            return;
+        }
+        if(vec.size()==level){
+            vec.push_back(root->val);
+        }
+        rpreorder(root->right,level+1);
+        rpreorder(root->left,level+1);
+    }
     vector<int> rightSideView(TreeNode* root) {
-         queue<TreeNode*> q;
-        vector<int> vec;
-        if(root==NULL){
-            return vec;
-        }
-        q.push(root);
-        while(!q.empty()){
-            int size = q.size();
-            for(int i=0;i<size;i++){
-                TreeNode* a = q.front();
-                q.pop();
-                if(i==size-1){
-                    vec.push_back(a->val); // done using level order traversal and size()-1
-                }
-                if(a->left!=NULL){
-                    q.push(a->left);
-                }
-                if(a->right!=NULL){
-                    q.push(a->right);
-                }
-            }
-        }
+        int level=0;
+        rpreorder(root,level);
         return vec;
-        
     }
 };
