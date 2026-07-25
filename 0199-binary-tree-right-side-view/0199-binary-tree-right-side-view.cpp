@@ -12,19 +12,19 @@
 class Solution {
 public:
     vector<int> vec;
-    void rpreorder(TreeNode* root,int level){ //reverse preorder techenique is used.
-        if(root==nullptr){
+    void ishelp(TreeNode* root,int level){
+        if(root==NULL){
             return;
         }
-        if(vec.size()==level){
+        if(level==vec.size()){
             vec.push_back(root->val);
         }
-        rpreorder(root->right,level+1);
-        rpreorder(root->left,level+1);
+        ishelp(root->right,level+1);
+        ishelp(root->left,level+1);
     }
     vector<int> rightSideView(TreeNode* root) {
         int level=0;
-        rpreorder(root,level);
+        ishelp(root,level);
         return vec;
     }
 };
