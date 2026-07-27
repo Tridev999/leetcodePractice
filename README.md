@@ -24,6 +24,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -143,4 +144,12 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
