@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<string> vec;
+    int s=0;
     string str="";
     void preorder(TreeNode* root){ //can be solved using DFS + backtrack
         if(root==NULL){
@@ -19,7 +19,7 @@ public:
         }
         str+=to_string(root->val);
         if(root->left==NULL and root->right==NULL){
-            vec.push_back(str);
+            s+=stoi(str);
             str.pop_back();
             return; // early return is important
         }
@@ -29,10 +29,6 @@ public:
     }
     int sumNumbers(TreeNode* root) {
         preorder(root);
-        int sum=0;
-        for(auto s:vec){
-            sum+=stoi(s);
-        }
-        return sum;
+        return s;
     }
 };
