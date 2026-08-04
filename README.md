@@ -27,6 +27,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -53,6 +54,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
