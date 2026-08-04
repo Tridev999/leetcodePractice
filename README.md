@@ -82,6 +82,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -107,6 +108,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -135,6 +137,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
