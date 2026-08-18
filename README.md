@@ -88,6 +88,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
@@ -119,6 +120,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
@@ -152,6 +154,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
