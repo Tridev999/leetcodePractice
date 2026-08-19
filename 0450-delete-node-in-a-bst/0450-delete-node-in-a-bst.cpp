@@ -41,6 +41,7 @@ public:
             if(root->val>k){
                 if(root->left!=NULL && root->left->val==k){
                     root->left = helper(root->left);
+                    break;
                 }
                 else{
                     root=root->left;
