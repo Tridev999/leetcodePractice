@@ -22,6 +22,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0144-binary-tree-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -94,6 +96,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -161,6 +164,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -195,6 +199,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +228,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
