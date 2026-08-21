@@ -14,6 +14,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Tridev999/leetcodePractice/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tridev999/leetcodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -248,8 +249,10 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
+| [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
