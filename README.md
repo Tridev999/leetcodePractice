@@ -36,6 +36,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,4 +248,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
