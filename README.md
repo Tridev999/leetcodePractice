@@ -30,6 +30,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -72,6 +73,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0112-path-sum) |
@@ -140,6 +142,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0112-path-sum) |
@@ -194,6 +197,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -225,6 +229,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
