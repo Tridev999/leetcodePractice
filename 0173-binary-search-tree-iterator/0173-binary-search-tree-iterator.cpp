@@ -22,7 +22,7 @@ public:
             return;
         }
         inorder(obj->right);
-        st.push(obj->val);
+        st.push(obj->val);    //using reverse inorder traverasal we can solve it
         inorder(obj->left);
     }
     
