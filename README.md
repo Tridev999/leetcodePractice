@@ -38,6 +38,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
@@ -68,6 +69,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
