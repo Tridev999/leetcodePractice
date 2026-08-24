@@ -40,6 +40,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
 | [4024-nearest-available-drone](https://github.com/Tridev999/leetcodePractice/tree/master/4024-nearest-available-drone) |
 ## Backtracking
 |  |
@@ -256,6 +257,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
