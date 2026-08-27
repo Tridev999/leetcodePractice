@@ -293,6 +293,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
