@@ -1,19 +1,11 @@
 class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
-          map<int,int> mpp;
-          for(auto x:edges){
-             mpp[x[0]]++;
-             mpp[x[1]]++;
-          }
-          int center = 0;
-          int max1 = 0;
-          for(auto x:mpp){
-            if(x.second>max1){
-                max1 = x.second;
-                center = x.first;
-            }
-          }
-          return center;
+        int temp1 = edges[0][0];
+        int temp2 = edges[0][1];
+        if(temp1==edges[1][0] || temp1==edges[1][1]){
+            return temp1;
+        }
+        return temp2;
     }
 };
