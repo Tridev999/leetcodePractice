@@ -9,6 +9,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
+| [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -263,6 +264,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
