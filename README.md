@@ -267,12 +267,14 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
+| [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tridev999/leetcodePractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
