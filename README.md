@@ -230,6 +230,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tridev999/leetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -314,4 +315,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tridev999/leetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
