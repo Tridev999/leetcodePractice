@@ -44,6 +44,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tridev999/leetcodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tridev999/leetcodePractice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
@@ -279,6 +280,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tridev999/leetcodePractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tridev999/leetcodePractice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Tridev999/leetcodePractice/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 ## Enumeration
