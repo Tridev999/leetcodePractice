@@ -239,6 +239,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tridev999/leetcodePractice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tridev999/leetcodePractice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -306,6 +307,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
