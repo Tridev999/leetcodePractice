@@ -40,6 +40,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tridev999/leetcodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tridev999/leetcodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
@@ -239,6 +241,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tridev999/leetcodePractice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tridev999/leetcodePractice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
