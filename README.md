@@ -48,6 +48,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3875-construct-uniform-parity-array-i](https://github.com/Tridev999/leetcodePractice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Tridev999/leetcodePractice/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Tridev999/leetcodePractice/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tridev999/leetcodePractice/tree/master/3925-concatenate-array-with-reverse) |
 | [4024-nearest-available-drone](https://github.com/Tridev999/leetcodePractice/tree/master/4024-nearest-available-drone) |
 ## Backtracking
@@ -330,4 +331,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tridev999/leetcodePractice/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Tridev999/leetcodePractice/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
