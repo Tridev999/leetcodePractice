@@ -147,6 +147,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -211,6 +212,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0226-invert-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -314,6 +316,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -324,6 +327,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
