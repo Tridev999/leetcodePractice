@@ -247,6 +247,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tridev999/leetcodePractice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tridev999/leetcodePractice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -290,6 +291,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tridev999/leetcodePractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -343,4 +345,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Tridev999/leetcodePractice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tridev999/leetcodePractice/tree/master/3904-smallest-stable-index-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
