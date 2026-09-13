@@ -37,6 +37,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -80,6 +81,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
