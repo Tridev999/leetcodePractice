@@ -46,6 +46,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
@@ -366,6 +367,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tridev999/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Tridev999/leetcodePractice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tridev999/leetcodePractice/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
