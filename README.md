@@ -253,6 +253,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -263,6 +264,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tridev999/leetcodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
