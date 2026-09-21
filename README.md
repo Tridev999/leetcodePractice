@@ -49,6 +49,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -79,6 +80,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
