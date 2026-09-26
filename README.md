@@ -16,6 +16,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/Tridev999/leetcodePractice/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Tridev999/leetcodePractice/tree/master/2000-reverse-prefix-of-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -51,6 +52,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -98,6 +100,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
