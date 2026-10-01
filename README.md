@@ -8,6 +8,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
@@ -29,6 +30,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -414,5 +416,6 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
