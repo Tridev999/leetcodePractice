@@ -58,6 +58,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -289,12 +290,14 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tridev999/leetcodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Tridev999/leetcodePractice/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -323,6 +326,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tridev999/leetcodePractice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/3498-reverse-degree-of-a-string) |
