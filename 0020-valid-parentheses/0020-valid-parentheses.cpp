@@ -13,7 +13,7 @@ public:
                 st.push('}');
             }
             else{
-                if(!st.empty() && st.top()!=s[i]){
+                if(st.empty() || st.top()!=s[i]){
                     return false;
                 }
                 else{
