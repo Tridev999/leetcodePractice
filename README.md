@@ -343,6 +343,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Tridev999/leetcodePractice/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Tridev999/leetcodePractice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
