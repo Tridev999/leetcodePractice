@@ -65,6 +65,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tridev999/leetcodePractice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Tridev999/leetcodePractice/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tridev999/leetcodePractice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -348,6 +349,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [2769-find-the-maximum-achievable-number](https://github.com/Tridev999/leetcodePractice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tridev999/leetcodePractice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tridev999/leetcodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tridev999/leetcodePractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Tridev999/leetcodePractice/tree/master/3870-count-commas-in-range) |
