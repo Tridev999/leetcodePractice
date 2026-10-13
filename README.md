@@ -92,6 +92,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Tridev999/leetcodePractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -462,4 +463,5 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
