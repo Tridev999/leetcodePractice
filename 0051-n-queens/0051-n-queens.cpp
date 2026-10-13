@@ -23,7 +23,7 @@ public:
         }
         return true;
     }
-    void solve(vector<string>& board,int row){
+    void solve(vector<string> board,int row){
         if(row>=N){
             result.push_back(board);
             return;
