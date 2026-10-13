@@ -1,7 +1,7 @@
 class Solution {
 public:
     int N = 0;
-    vector<vector<string>> result;
+    int c=0;
     bool valid(vector<string> str,int row,int col){
         //upward
         for(int i=row-1;i>=0;i--){
@@ -25,7 +25,7 @@ public:
     }
     void solve(vector<string>& str,int row){
         if(row>=N){
-            result.push_back(str);
+            c++;
             return;
         }
         for(int col=0;col<N;col++){
@@ -40,6 +40,6 @@ public:
         N=n;
         vector<string> vec(n,string(n,'.'));
         solve(vec,0);
-        return result.size();
+        return c;
     }
 };
