@@ -50,6 +50,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -90,6 +91,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Tridev999/leetcodePractice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -456,4 +458,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
