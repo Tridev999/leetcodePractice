@@ -1,24 +1,20 @@
 class Solution {
 public:
     vector<vector<int>> result;
-    void sub(vector<int>& nums,int idx,vector<int> curr){
-        if(idx==nums.size()){
-            vector<int> st;
-            for(int i=0;i<curr.size();i++){
-                  st.push_back(curr[i]);
-            }
-            result.push_back(st);
+    void solve(vector<int>& nums,vector<int>& temp,int i){
+        if(i>=nums.size()){
+            result.push_back(temp);
             return;
         }
-        sub(nums,idx+1,curr); // first we do not include element
-        curr.push_back(nums[idx]);
-        sub(nums,idx+1,curr); // we include the element in it
-        curr.pop_back(); // used for backtracking
+        temp.push_back(nums[i]);
+        solve(nums,temp,i+1);
+        temp.pop_back();
+        solve(nums,temp,i+1);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> curr;
-        int idx=0;
-        sub(nums,idx,curr);
+        vector<int> temp;
+        int i=0;
+        solve(nums,temp,i);
         return result;
     }
 };
