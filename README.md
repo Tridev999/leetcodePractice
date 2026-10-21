@@ -69,6 +69,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tridev999/leetcodePractice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Tridev999/leetcodePractice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tridev999/leetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -106,6 +107,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0113-path-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Tridev999/leetcodePractice/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Tridev999/leetcodePractice/tree/master/0784-letter-case-permutation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tridev999/leetcodePractice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -377,6 +380,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Tridev999/leetcodePractice/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Tridev999/leetcodePractice/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
@@ -390,6 +394,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tridev999/leetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 | [4024-nearest-available-drone](https://github.com/Tridev999/leetcodePractice/tree/master/4024-nearest-available-drone) |
@@ -485,4 +490,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tridev999/leetcodePractice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
