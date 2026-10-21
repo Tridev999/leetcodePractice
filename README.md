@@ -52,6 +52,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -96,6 +97,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Tridev999/leetcodePractice/tree/master/0077-combinations) |
@@ -316,6 +318,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tridev999/leetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
