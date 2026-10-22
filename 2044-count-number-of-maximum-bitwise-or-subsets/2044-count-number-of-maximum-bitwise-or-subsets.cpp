@@ -1,31 +1,24 @@
 class Solution {
 public:
-    int cnt = 0;
-    int n=0;
-    void solve(vector<int>& nums,vector<int>& temp,int i,int mx){
-        if(i>=n){
-            int result = 0;
-            for(int i=0;i<temp.size();i++){
-                result = result|temp[i];
-            }
-            if(result==mx){
-                cnt+=1;
+    int count = 0;
+    void solve(vector<int>& nums,int i,int mx,int result){
+        if(i==nums.size()){
+            if(mx == result){
+                count++;
             }
             return;
         }
-        temp.push_back(nums[i]);
-        solve(nums,temp,i+1,mx);
-        temp.pop_back();
-        solve(nums,temp,i+1,mx);
+        solve(nums,i+1,mx,result|nums[i]);
+        solve(nums,i+1,mx,result);
     }
     int countMaxOrSubsets(vector<int>& nums) {
-        n=nums.size();
         int mx=0;
+        int result = 0;
+        int n = nums.size();
         for(int i=0;i<n;i++){
             mx |= nums[i];
         }
-        vector<int> temp;
-        solve(nums,temp,0,mx);
-        return cnt;
+        solve(nums,0,mx,result);
+        return count;
     }
 };
