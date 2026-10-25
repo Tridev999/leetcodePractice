@@ -60,6 +60,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Tridev999/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tridev999/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -107,6 +108,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Tridev999/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Tridev999/leetcodePractice/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
