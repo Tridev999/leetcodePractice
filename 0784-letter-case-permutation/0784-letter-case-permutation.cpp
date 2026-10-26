@@ -19,21 +19,6 @@ public:
             solve(s,str,i+1);
             str.pop_back();
         }
-        // if(str[i]>=97 && str[i]<=122){
-        //     str.push_back(tolower(str[i]));
-        // }
-        // else{
-        //     str.push_back(str[i]);
-        // }
-        // solve(s,str,i+1);
-        // str.pop_back();
-        // if(str[i]>=65 && str[i]<=90){
-        //     str.push_back(toupper(str[i]));
-        // }
-        // else{
-        //     str.push_back(str[i]);
-        // }
-        // solve(s,str,i+1);
     }
     vector<string> letterCasePermutation(string s) {
         string str = "";
