@@ -52,6 +52,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
@@ -101,6 +102,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
