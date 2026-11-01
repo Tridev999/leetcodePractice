@@ -199,6 +199,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Tridev999/leetcodePractice/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -272,6 +273,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Tridev999/leetcodePractice/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Tridev999/leetcodePractice/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -293,6 +295,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1609-even-odd-tree](https://github.com/Tridev999/leetcodePractice/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
