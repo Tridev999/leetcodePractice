@@ -8,12 +8,7 @@ public:
             if(nums[i]==val){
                 continue;
             }
-            if(nums[i]>val){
-                count+=nums[i]-val;
-            }
-            else{
-                count+=val-nums[i];
-            }
+            count+=abs(nums[i]-val);
         }
         return count;
     }
