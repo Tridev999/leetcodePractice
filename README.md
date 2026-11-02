@@ -67,6 +67,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tridev999/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -396,6 +397,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Tridev999/leetcodePractice/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
