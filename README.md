@@ -225,6 +225,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0144-binary-tree-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tridev999/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Tridev999/leetcodePractice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -294,6 +295,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Tridev999/leetcodePractice/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Tridev999/leetcodePractice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tridev999/leetcodePractice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -451,6 +453,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Tridev999/leetcodePractice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
@@ -527,4 +530,12 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Tridev999/leetcodePractice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Tridev999/leetcodePractice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
