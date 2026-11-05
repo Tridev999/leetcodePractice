@@ -242,6 +242,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -308,6 +309,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1609-even-odd-tree](https://github.com/Tridev999/leetcodePractice/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -465,6 +467,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -475,6 +478,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
 |  |
 | ------- |
