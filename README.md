@@ -53,6 +53,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
@@ -452,6 +453,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
