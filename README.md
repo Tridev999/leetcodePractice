@@ -85,6 +85,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tridev999/leetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Tridev999/leetcodePractice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tridev999/leetcodePractice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tridev999/leetcodePractice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -138,6 +139,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tridev999/leetcodePractice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tridev999/leetcodePractice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Tridev999/leetcodePractice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
 |  |
