@@ -18,6 +18,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tridev999/leetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Tridev999/leetcodePractice/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -71,6 +72,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -474,6 +476,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0210-course-schedule-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -488,6 +491,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
