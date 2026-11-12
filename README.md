@@ -248,6 +248,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/Tridev999/leetcodePractice/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Tridev999/leetcodePractice/tree/master/0938-range-sum-of-bst) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Tridev999/leetcodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
@@ -315,6 +316,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Tridev999/leetcodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/Tridev999/leetcodePractice/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tridev999/leetcodePractice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -478,6 +480,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Tridev999/leetcodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
@@ -492,6 +495,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0547-number-of-provinces](https://github.com/Tridev999/leetcodePractice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Tridev999/leetcodePractice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tridev999/leetcodePractice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Tridev999/leetcodePractice/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
