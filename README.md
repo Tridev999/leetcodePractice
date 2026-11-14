@@ -97,6 +97,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tridev999/leetcodePractice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tridev999/leetcodePractice/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tridev999/leetcodePractice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -398,6 +399,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tridev999/leetcodePractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -519,6 +521,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tridev999/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tridev999/leetcodePractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Tridev999/leetcodePractice/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/Tridev999/leetcodePractice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Tridev999/leetcodePractice/tree/master/3904-smallest-stable-index-ii) |
