@@ -584,4 +584,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Tridev999/leetcodePractice/tree/master/0785-is-graph-bipartite) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Tridev999/leetcodePractice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
