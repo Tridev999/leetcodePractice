@@ -589,5 +589,6 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0584-find-customer-referee](https://github.com/Tridev999/leetcodePractice/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/Tridev999/leetcodePractice/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Tridev999/leetcodePractice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tridev999/leetcodePractice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
