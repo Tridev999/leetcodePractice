@@ -591,4 +591,5 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1148-article-views-i](https://github.com/Tridev999/leetcodePractice/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Tridev999/leetcodePractice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tridev999/leetcodePractice/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tridev999/leetcodePractice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
