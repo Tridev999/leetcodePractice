@@ -27,6 +27,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Tridev999/leetcodePractice/tree/master/2000-reverse-prefix-of-word) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Tridev999/leetcodePractice/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Tridev999/leetcodePractice/tree/master/3340-check-balanced-string) |
@@ -414,6 +415,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1929-concatenation-of-array](https://github.com/Tridev999/leetcodePractice/tree/master/1929-concatenation-of-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tridev999/leetcodePractice/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tridev999/leetcodePractice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Tridev999/leetcodePractice/tree/master/3360-stone-removal-game) |
