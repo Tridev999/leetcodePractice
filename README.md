@@ -29,6 +29,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Tridev999/leetcodePractice/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tridev999/leetcodePractice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Tridev999/leetcodePractice/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/3498-reverse-degree-of-a-string) |
