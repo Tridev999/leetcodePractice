@@ -61,6 +61,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0040-combination-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tridev999/leetcodePractice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -429,6 +430,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
@@ -497,6 +499,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
