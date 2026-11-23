@@ -57,6 +57,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0040-combination-sum-ii) |
@@ -157,6 +158,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tridev999/leetcodePractice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
