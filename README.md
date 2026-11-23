@@ -65,6 +65,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -155,6 +156,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -397,6 +399,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
