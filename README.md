@@ -165,6 +165,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -363,6 +364,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tridev999/leetcodePractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -480,6 +482,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
@@ -548,6 +551,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 ## Geometry
