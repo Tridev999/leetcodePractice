@@ -31,6 +31,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tridev999/leetcodePractice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Tridev999/leetcodePractice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tridev999/leetcodePractice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/Tridev999/leetcodePractice/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tridev999/leetcodePractice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -432,6 +433,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Tridev999/leetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tridev999/leetcodePractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tridev999/leetcodePractice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Stack
