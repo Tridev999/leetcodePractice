@@ -84,6 +84,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/Tridev999/leetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -429,6 +430,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tridev999/leetcodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Tridev999/leetcodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tridev999/leetcodePractice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tridev999/leetcodePractice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/3364-minimum-positive-sum-subarray) |
