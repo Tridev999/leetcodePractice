@@ -374,6 +374,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Tridev999/leetcodePractice/tree/master/1669-merge-in-between-linked-lists) |
@@ -497,6 +498,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Tridev999/leetcodePractice/tree/master/2000-reverse-prefix-of-word) |
