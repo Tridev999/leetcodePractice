@@ -87,6 +87,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Tridev999/leetcodePractice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Tridev999/leetcodePractice/tree/master/0704-binary-search) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Tridev999/leetcodePractice/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/Tridev999/leetcodePractice/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -354,6 +355,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Tridev999/leetcodePractice/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tridev999/leetcodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search Tree
