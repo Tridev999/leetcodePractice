@@ -12,6 +12,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Tridev999/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Tridev999/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Tridev999/leetcodePractice/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
@@ -176,6 +177,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tridev999/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Tridev999/leetcodePractice/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -394,6 +396,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tridev999/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
