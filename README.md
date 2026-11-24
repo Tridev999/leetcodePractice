@@ -70,6 +70,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Tridev999/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
@@ -167,6 +168,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0013-roman-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tridev999/leetcodePractice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
@@ -383,6 +385,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -400,6 +403,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tridev999/leetcodePractice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tridev999/leetcodePractice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -410,6 +414,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -617,4 +622,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [1683-invalid-tweets](https://github.com/Tridev999/leetcodePractice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Tridev999/leetcodePractice/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tridev999/leetcodePractice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
