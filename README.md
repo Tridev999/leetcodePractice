@@ -365,6 +365,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tridev999/leetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tridev999/leetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -493,6 +494,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tridev999/leetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
