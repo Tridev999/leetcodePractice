@@ -367,6 +367,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tridev999/leetcodePractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Tridev999/leetcodePractice/tree/master/1669-merge-in-between-linked-lists) |
@@ -532,6 +533,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0002-add-two-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tridev999/leetcodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Tridev999/leetcodePractice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Tridev999/leetcodePractice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
