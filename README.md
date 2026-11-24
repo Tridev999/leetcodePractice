@@ -70,6 +70,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tridev999/leetcodePractice/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -165,6 +166,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tridev999/leetcodePractice/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -551,6 +553,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Tridev999/leetcodePractice/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tridev999/leetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tridev999/leetcodePractice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Recursion
