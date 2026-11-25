@@ -20,7 +20,7 @@ public:
         ans.push_back(root->val);
         inorder(root->right);
     }
-    vector<int> inorderTraversal(TreeNode* root) { // left root right
+    vector<int> inorderTraversal(TreeNode* root) {
         inorder(root);
         return ans;
     }
