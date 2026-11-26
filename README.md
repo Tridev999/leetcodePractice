@@ -17,6 +17,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0412-fizz-buzz](https://github.com/Tridev999/leetcodePractice/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Tridev999/leetcodePractice/tree/master/0657-robot-return-to-origin) |
 | [0784-letter-case-permutation](https://github.com/Tridev999/leetcodePractice/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/Tridev999/leetcodePractice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Tridev999/leetcodePractice/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tridev999/leetcodePractice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tridev999/leetcodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -655,4 +656,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Tridev999/leetcodePractice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
