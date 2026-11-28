@@ -73,6 +73,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tridev999/leetcodePractice/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tridev999/leetcodePractice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -409,6 +410,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -524,6 +526,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tridev999/leetcodePractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tridev999/leetcodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Tridev999/leetcodePractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tridev999/leetcodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0142-linked-list-cycle-ii) |
@@ -675,4 +678,12 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
