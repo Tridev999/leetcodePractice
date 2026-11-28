@@ -73,6 +73,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0051-n-queens](https://github.com/Tridev999/leetcodePractice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tridev999/leetcodePractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tridev999/leetcodePractice/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Tridev999/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Tridev999/leetcodePractice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tridev999/leetcodePractice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0090-subsets-ii) |
@@ -364,6 +365,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tridev999/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Tridev999/leetcodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Tridev999/leetcodePractice/tree/master/0704-binary-search) |
@@ -560,6 +562,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tridev999/leetcodePractice/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Tridev999/leetcodePractice/tree/master/0074-search-a-2d-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tridev999/leetcodePractice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
