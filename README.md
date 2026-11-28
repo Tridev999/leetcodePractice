@@ -85,6 +85,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0216-combination-sum-iii](https://github.com/Tridev999/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tridev999/leetcodePractice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Tridev999/leetcodePractice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Tridev999/leetcodePractice/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -529,6 +530,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0151-reverse-words-in-a-string](https://github.com/Tridev999/leetcodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tridev999/leetcodePractice/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Tridev999/leetcodePractice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tridev999/leetcodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Tridev999/leetcodePractice/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tridev999/leetcodePractice/tree/master/1385-find-the-distance-value-between-two-arrays) |
