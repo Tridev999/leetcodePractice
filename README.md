@@ -81,6 +81,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tridev999/leetcodePractice/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tridev999/leetcodePractice/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tridev999/leetcodePractice/tree/master/0238-product-of-array-except-self) |
@@ -408,6 +409,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0047-permutations-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Tridev999/leetcodePractice/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tridev999/leetcodePractice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tridev999/leetcodePractice/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Tridev999/leetcodePractice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -421,6 +423,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Tridev999/leetcodePractice/tree/master/2974-minimum-number-game) |
 ## Counting Sort
@@ -438,6 +441,7 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tridev999/leetcodePractice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Tridev999/leetcodePractice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -663,4 +667,8 @@ This repo is about solving DSA pattern wise from top platforms (From basics to A
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tridev999/leetcodePractice/tree/master/0796-rotate-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tridev999/leetcodePractice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
